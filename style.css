@@ -1,0 +1,30 @@
+h1{
+  color: blueviolet
+}
+#test{
+    color:red
+}
+.meat{
+    color:red
+}
+.veggie{
+    color:green
+}
+#box{
+width: 90px;
+background-color:yellow;
+height:200px;
+padding: 10px;
+border: 2px black solid;
+margin: 5px;
+text-align: center;
+}
+#box2{
+width: 90px;
+background-color:blue;
+height:200px;
+padding: 10px;
+border: 2px black solid;
+margin-left: 2px;
+padding:0px 10px 15px 20px;
+}
