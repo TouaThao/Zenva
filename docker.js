@@ -8,6 +8,3 @@
 
 //////////////////////////////////
 // one way hashing or two hashing
-
-//puppeteer
-//manual testing and automatic testing
