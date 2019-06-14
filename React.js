@@ -3,7 +3,7 @@
 /*
 life cycle method are changing.
 render life cycle
-constructor()-set the inital state/ bring the newborn into life
+constructor()-set the inital state/ bring the newborn into
 static getDerivedStatefromProp()
 render()
 componetDidMount()
@@ -49,9 +49,5 @@ this.props is a read only info from the parents. They cannot be pass back up to 
 /*
 
 */
-//////////////////////
-//name the life cycle and their purpose?
-/*
 
-*/
-//////////////////////
+
